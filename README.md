@@ -1,3 +1,4 @@
+<img src="Hi, There.png"/> 
 <h1 align="center">
   Transforming Data in Strategic Decisions with Machine Learning and Deep Learning
   </h1>
