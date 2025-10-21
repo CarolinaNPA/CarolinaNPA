@@ -21,3 +21,5 @@
 
 <p align="left">
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,linux,mysql,opencv,py,pytorch,r,sklearn,selenium,tensorflow,ubuntu,vscode)](https://skillicons.dev)
