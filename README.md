@@ -1,8 +1,5 @@
 <img src="Hi, There_full.png"/> 
-<h1 align="center">
-  Transforming Data in Strategic Decisions with Machine Learning and Deep Learning
-  </h1>
-<h3 align="center">
+<h3>
   Passionate with complex problem solving in data science. Specialist in Python, pandas, numpy, matplotlib, scikit-learn,
   TensorFlow, pytorch, etc. Currently adding new personal projects to the portfolio.
   </h3>
