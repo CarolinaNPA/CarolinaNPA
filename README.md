@@ -1,9 +1,15 @@
 <img src="Hi, There_full.png"/> 
 
-<h3 align = 'center'>
+<h2 align = 'center'>
   Passionate with complex problem solving in data science. Specialist in Python, pandas, numpy, matplotlib, scikit-learn,
   TensorFlow, pytorch, etc. Currently adding new personal projects to the portfolio.
-  </h3>
+  </h2>
+  
+<h> I'm **22** years old girl on an intention to enhance as a Data Science and AI engineer, who loves work with new projects using Machine Learning and Deep Learning. </h>
+
+- 🔭 Currently working in new projects for a good portfolio
+- ⚡ I'm currenly learning some data visualizations tools such as PowerBI and Tableau
+- 🤔 I'm interested in learn about cloud computing using AWS and GCP
 
 <div align = 'center'>
 
@@ -11,11 +17,7 @@
 ![CarolinaNPA's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarolinaNPA&theme=cobalt&hide_border=false&hide=longest-streak) 
 
 </div>
-- 🔭 This is my **first portfolio** with my **personal projects** just to improve my knowledge and keep learning :)
-- ⚡ In this portfolio you can find my projects such as:
--   **Image Classification using RNA**
--  **Multimodal Conversation analysis and sentiment classification**
-- **Binary Classification with a Bank Dataset**
+
 
 <p align="left">
 </p>
