@@ -1,5 +1,5 @@
 <img src="Hi, There_full.png"/> 
-<h3>
+<h3 align = 'center'>
   Passionate with complex problem solving in data science. Specialist in Python, pandas, numpy, matplotlib, scikit-learn,
   TensorFlow, pytorch, etc. Currently adding new personal projects to the portfolio.
   </h3>
