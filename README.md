@@ -8,7 +8,6 @@
 <h> I'm **22** years old girl on an intention to enhance as a Data Science and AI engineer, who loves work with new projects using Machine Learning and Deep Learning. </h>
 
 - 🔭 Currently working in new projects for a good portfolio
-- ⚡ I'm currenly learning some data visualizations tools such as PowerBI and Tableau
 - 🤔 I'm interested in learn about cloud computing using AWS and GCP
 
 <div align = 'center'>
