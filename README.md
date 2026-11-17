@@ -5,7 +5,7 @@
   TensorFlow, pytorch, etc. Currently adding new personal projects to the portfolio.
   </h2>
   
-<h> I'm **22** years old girl on an intention to enhance as a Data Science and AI engineer, who loves work with new projects using Machine Learning and Deep Learning. </h>
+<h> I'm **23** years old girl on an intention to enhance as a Data Science and AI engineer, who loves work with new projects using Machine Learning and Deep Learning. </h>
 
 - 🔭 Currently working in new projects for a good portfolio
 - 🤔 I'm interested in learn about cloud computing using AWS and GCP
